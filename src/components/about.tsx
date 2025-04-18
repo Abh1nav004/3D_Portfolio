@@ -54,11 +54,12 @@ export const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="empty-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          I'm a skilled website developer with experience in TypeScript and
-          Javascript, and expertise in frameworks like React, Node.js, and
-          Three.js. I'm a quick learner and collaborate closely with clients to
-          create efficient, scalable, and user-friendly solutions that solve
-          real-world problems. Let's work together to bring your ideas to life!
+          Welcome to the digital playground of Abhinav—part software sculptor, part web whisperer, and full-time seeker of elegant solutions in a chaotic codebase.
+          I build more than websites. I architect experiences.
+          I don’t just debug—I interrogate the very logic of existence (one stack trace at a time).
+          Here, you'll find pixels with purpose, functions with flair, and design that dances between form and function.
+          So whether you're here to collaborate, hire, or just get inspired, take a scroll through my world.
+          It’s built on clean code, caffeine, and a stubborn refusal to stop asking "What if we did it better?"
         </motion.p>
 
         {/* Service Card */}
