@@ -198,7 +198,7 @@ export const EXPERIENCES = [
 export const TESTIMONIALS = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Abhinav proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -206,7 +206,7 @@ export const TESTIMONIALS = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Abhinav does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -214,7 +214,7 @@ export const TESTIMONIALS = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Abhinav optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -225,9 +225,9 @@ export const TESTIMONIALS = [
 // Projects
 export const PROJECTS = [
   {
-    name: "Disney+ Clone",
+    name: "EliteCare",
     description:
-      "Disney+ is one of the biggest streaming platforms used by millions of people world-wide and allows us to stream high quality content in 4k and various other formats",
+      "A comprehensive healthcare platform built to streamline patient management, doctor coordination, and medical record handling. With a secure backend and intuitive UI, EliteCare improves efficiency in clinics and hospitals, ensuring patients receive the care they deserve—faster, safer, and smarter.",
     tags: [
       {
         name: "react",
@@ -243,13 +243,13 @@ export const PROJECTS = [
       },
     ],
     image: project1,
-    source_code_link: "https://github.com/sanidhyy/disney-clone",
-    live_site_link: "https://clonedisneyplus.web.app/",
+    source_code_link: "https://github.com/shaikyajash/EliteCare",
+    live_site_link: "/",
   },
   {
-    name: "Golds Gym",
+    name: "HumanAI",
     description:
-      "Web application that enables users to search for fitness exercises, effective personalized positions, and recommends new exercises based on their personal preferences.",
+      "A wellness-focused app designed to keep digital experiences deeply human. Track habits, reflect on emotions, and stay grounded in a chaotic world. Human blends minimalist design with mindful features to help users reconnect—with themselves and with others—one intentional tap at a time.",
     tags: [
       {
         name: "react",
@@ -265,13 +265,13 @@ export const PROJECTS = [
       },
     ],
     image: project2,
-    source_code_link: "https://github.com/sanidhyy/fitness-app",
-    live_site_link: "https://fitness-gym-react.netlify.app/",
+    source_code_link: "https://github.com/Abh1nav004/Human",
+    live_site_link: "/",
   },
   {
-    name: "Shoppy",
+    name: "StrokeShield",
     description:
-      "The most personalised admin dashboard web application that allows enables users to choose customized themes and dark mode with different pages and variety of charts.",
+      "An emergency-focused app built to assist in stroke detection and response. Features include symptom tracking, real-time alerts, and immediate medical guidance. StrokeShield empowers users and caregivers to act fast—when seconds matter most, the app becomes your first line of defense.",
     tags: [
       {
         name: "react",
@@ -287,13 +287,13 @@ export const PROJECTS = [
       },
     ],
     image: project3,
-    source_code_link: "https://github.com/sanidhyy/admin-dashboard",
-    live_site_link: "https://shoppy-dashboard-react.netlify.app/",
+    source_code_link: "https://github.com/Abh1nav004/Brain_Stroke_Detector",
+    live_site_link: "/",
   },
   {
-    name: "TikTok Clone",
+    name: "RealAly Inc",
     description:
-      "A Next JS Web Application that enables users to upload videos of any length and size, create accounts and connect with other people just like any other social media.",
+      "A full-service digital agency offering web development, deployment, and social media management under one roof. RealAly turns ideas into interactive experiences—whether it’s crafting a brand, building platforms, or driving growth. For businesses seeking smart solutions, RealAly is the real ally.",
     tags: [
       {
         name: "nextjs",
@@ -313,9 +313,9 @@ export const PROJECTS = [
     live_site_link: "https://tiktok-clone-react.vercel.app/",
   },
   {
-    name: "Cryptoverse",
+    name: "Really",
     description:
-      "Best Cryptocurrency web application that allows users to view price, market cap and daily change in realtime for almost every cryptocurrency in the world.",
+      "A premium fashion storefront built to showcase elegance in both style and tech. Really delivers a seamless shopping experience with fast load times, sharp visuals, and intuitive filters. It’s where sleek design meets high-end clothing—because your wardrobe should click as well as your code.",
     tags: [
       {
         name: "react",
@@ -335,9 +335,9 @@ export const PROJECTS = [
     live_site_link: "https://reactjscryptoapp.netlify.app/",
   },
   {
-    name: "Travel Advisor",
+    name: "MyTravo",
     description:
-      "Web application that enables you to view your nearby restaurants, hotels and attractions which can be sorted by ratings, price and much more.",
+      "A travel booking platform built in PHP to simplify trip planning. Users can explore destinations, view packages, and reserve trips with ease. From solo escapes to group adventures, myTravo makes organizing travel intuitive, efficient, and just one form submission away.",
     tags: [
       {
         name: "react",
